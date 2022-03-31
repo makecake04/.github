@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/94432600/160968532-52f4b8a5-ce1b-423e-9cc5-15e9a90ef056.png" align=left width=100> makecake
+# <img src="https://user-images.githubusercontent.com/94432600/161058919-db3f3397-40b4-474a-a201-8f3f3a47c3d6.PNG" align=left width=100> makecake
 
 나만의 케이크, 그려보지 않을래요?
     
