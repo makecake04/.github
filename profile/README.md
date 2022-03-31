@@ -33,7 +33,7 @@
 
 ## 📜 ER 다이어그램     
     
-<img src="https://user-images.githubusercontent.com/44867889/160381158-175be13e-af10-4811-8c02-416ec278d1d1.png" width="80%" height="80%">   
+<img src="https://user-images.githubusercontent.com/94432600/160970026-2adb675a-3c08-484d-a64b-2bc1d4004fc1.PNG" width="80%" height="80%">   
 
 
 ## ✨ 핵심기능
