@@ -30,18 +30,18 @@
 ## 👥 팀 소개
 
 #### `Frontend`
- <a href="https://github.com/nevergettingold" target="_blank"><img width="180"  src="https://img.shields.io/static/v1?label=React&message=오성택 (팀장) &color=61dafb&style=for-the-badge&>"/></a>
- <a href="https://github.com/durukim" target="_blank"><img width="180"  src="https://img.shields.io/static/v1?label=React&message=김두루 &color=61dafb&style=for-the-badge&>"/></a>
- <a href="https://github.com/jeonghwanJay" target="_blank"><img width="180"  src="https://img.shields.io/static/v1?label=React&message=지정환 &color=61dafb&style=for-the-badge&>"/></a>
+ <a href="https://github.com/nevergettingold" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=오성택 (팀장) &color=61dafb&style=for-the-badge&>"/></a>
+ <a href="https://github.com/durukim" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=김두루 &color=61dafb&style=for-the-badge&>"/></a>
+ <a href="https://github.com/jeonghwanJay" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=React&message=지정환 &color=61dafb&style=for-the-badge&>"/></a>
 
 #### `Backend`
-<a href="https://github.com/minjoo-kou" target="_blank"><img width="180"  src="https://img.shields.io/static/v1?label=Spring&message=구민주 (부팀장) &color=08CE5D&style=for-the-badge&>"/></a>
-<a href="https://github.com/sun-land" target="_blank"><img width="180"  src="https://img.shields.io/static/v1?label=Spring&message=고혜지 &color=08CE5D&style=for-the-badge&>"/></a>
-<a href="https://github.com/devssk" target="_blank"><img width="180"  src="https://img.shields.io/static/v1?label=Spring&message=송성근 &color=08CE5D&style=for-the-badge&>"/></a>
+<a href="https://github.com/minjoo-kou" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=구민주 (부팀장) &color=08CE5D&style=for-the-badge&>"/></a>
+<a href="https://github.com/sun-land" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=고혜지 &color=08CE5D&style=for-the-badge&>"/></a>
+<a href="https://github.com/devssk" target="_blank"><img height="40"  src="https://img.shields.io/static/v1?label=Spring&message=송성근 &color=08CE5D&style=for-the-badge&>"/></a>
 
 #### `Designer`
- <img width="180"  src="https://img.shields.io/static/v1?label=Design&message=황성원 &color=FF7F50&style=for-the-badge&>"/></a>
- <img width="180"  src="https://img.shields.io/static/v1?label=Design&message=이지해 &color=FF7F50&style=for-the-badge&>"/></a>
+ <img height="40"  src="https://img.shields.io/static/v1?label=Design&message=황성원 &color=FF7F50&style=for-the-badge&>"/></a>
+ <img height="40"  src="https://img.shields.io/static/v1?label=Design&message=이지해 &color=FF7F50&style=for-the-badge&>"/></a>
 
 <br />
 
