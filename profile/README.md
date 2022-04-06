@@ -1,48 +1,61 @@
-# <img src="https://user-images.githubusercontent.com/94432600/160968532-52f4b8a5-ce1b-423e-9cc5-15e9a90ef056.png" align=left width=100> makecake
+# <img src="https://user-images.githubusercontent.com/94432600/160968532-52f4b8a5-ce1b-423e-9cc5-15e9a90ef056.png" align=left width=50 >makecake 소개
 
-나만의 케이크, 그려보지 않을래요?
-    
-#### [makecake](https://make-cake.com/)   
-   
-특별한 날 즐거움을 더하는 레터링케이크!
+<img src="https://user-images.githubusercontent.com/94432600/161845731-81e78a42-4913-41da-a184-199dfc31f171.png" width="80%">
 
-근데.. 어떤 매장에서 주문하지?
-주문서 작성은 왜 이렇게 복잡한 거야..🤯
+### 나만의 케이크, 그려보지 않을래요?
 
-레터링 케이크의 정보를 한눈에 모아보고, 도안을 직접 그려 바로 주문을 넣어보세요!
+- 메이크케이크는 주문제작 케이크의 불편하고 복잡한 주문 과정을 편하게 만들기 위한 서비스입니다. 
 
-    
-**makecake에서 나만의 케이크를 만들어봐요!**    
- 
+- 주문제작 케이크 매장 정보들을 쉽게 찾아볼 수 있고, 직접 도안을 그려 볼 수 있습니다.
 
-## 👥 Team Members  
-**`Frontend (React)`**
-- [오성택(Team Leader)](https://github.com/nevergettingold), [김두루](https://github.com/durukim), [지정환](https://github.com/jeonghwanJay)
+- **`매장, 케이크 정보 제공`** **`도안그리기`** **`주문서 작성`** 
 
-**`Back-end (Spring)`**
-- [구민주(BE Leader)](https://github.com/minjoo-kou), [송성근](https://github.com/devssk), [고혜지](https://github.com/sun-land)
+🍰 **[makecake 서비스 바로가기](https://make-cake.com/)**
 
+🎬 **[서비스 시연 영상 (준비중)](https://make-cake.com/)**
 
-**`Design`**
-- 황성원, 이지해   
+<br />
+
+## ❓ 기획의도
+`"👩 케이크 사이즈, 가격 정보를 알려면 직접 매장에 연락해야 하는 경우가 대부분이라 부담스러워요."`
+
+`"👩‍🦱 도안을 매번 손으로 그려서 사진으로 찍어 보내야 하는 게 불편해요!"`
+
+`"👱‍♂️ 인스타그램, 네이버, 카카오톡을 번갈아 가면서 정보를 얻어야 해서 번거로워요."`
+
+**메이크케이크는 이러한 불편한 경험을 해소하기 위해 개발한 서비스입니다.**
+
+<br />
+
+## 👥 팀 소개
+
+#### `Frontend`
+ <a href="https://github.com/nevergettingold" target="_blank"><img width="180"  src="https://img.shields.io/static/v1?label=React&message=오성택 (팀장) &color=61dafb&style=for-the-badge&>"/></a>
+ <a href="https://github.com/durukim" target="_blank"><img width="180"  src="https://img.shields.io/static/v1?label=React&message=김두루 &color=61dafb&style=for-the-badge&>"/></a>
+ <a href="https://github.com/jeonghwanJay" target="_blank"><img width="180"  src="https://img.shields.io/static/v1?label=React&message=지정환 &color=61dafb&style=for-the-badge&>"/></a>
+
+#### `Backend`
+<a href="https://github.com/minjoo-kou" target="_blank"><img width="180"  src="https://img.shields.io/static/v1?label=Spring&message=구민주 (부팀장) &color=08CE5D&style=for-the-badge&>"/></a>
+<a href="https://github.com/sun-land" target="_blank"><img width="180"  src="https://img.shields.io/static/v1?label=Spring&message=고혜지 &color=08CE5D&style=for-the-badge&>"/></a>
+<a href="https://github.com/devssk" target="_blank"><img width="180"  src="https://img.shields.io/static/v1?label=Spring&message=송성근 &color=08CE5D&style=for-the-badge&>"/></a>
+
+#### `Designer`
+ <img width="180"  src="https://img.shields.io/static/v1?label=Design&message=황성원 &color=FF7F50&style=for-the-badge&>"/></a>
+ <img width="180"  src="https://img.shields.io/static/v1?label=Design&message=이지해 &color=FF7F50&style=for-the-badge&>"/></a>
+
+<br />
 
 
 ## 🗓 프로젝트 기간
 * 2022년 2월 25일 ~ 2022년 4월 9일   
 * 배포 : 2022년 3월 30일
 
+<br />
+
 ## 📜 아키텍쳐
-<img src="">   
+<img src="https://user-images.githubusercontent.com/94432600/161881274-5a5c7f38-acdf-47e9-9c8c-45b716d4f982.png">   
 
-
-
-## ✨ 핵심기능
-**`도안그리기`**
-
-**`주문서 작성`**
-
-**`매장, 케이크 정보 제공`**
-
+<br />
 
 
 ## 🎈 LINK  
@@ -50,7 +63,7 @@
 📔 노션 링크 : 
 
 
-
+<br />
 
 
 ## 🛠 Tech Stack
