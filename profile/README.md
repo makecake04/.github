@@ -10,7 +10,7 @@
 
 🍰 **[makecake 서비스 바로가기](https://make-cake.com/)**
 
-🎬 **[서비스 시연 영상 (준비중)](https://make-cake.com/)**
+🎬 **[서비스 시연 영상](https://www.youtube.com/watch?v=7CAoUo4Ma4c)**
 
 <br />
 
