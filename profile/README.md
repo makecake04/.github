@@ -8,8 +8,6 @@
 
 - 주문제작 케이크 매장 정보들을 쉽게 찾아볼 수 있고, 직접 도안을 그려 볼 수 있습니다.
 
-- **`매장, 케이크 정보 제공`** **`도안그리기`** **`주문서 작성`** 
-
 🍰 **[makecake 서비스 바로가기](https://make-cake.com/)**
 
 🎬 **[서비스 시연 영상 (준비중)](https://make-cake.com/)**
@@ -26,6 +24,22 @@
 **메이크케이크는 이러한 불편한 경험을 해소하기 위해 개발한 서비스입니다.**
 
 <br />
+
+## ✨ 핵심기능
+
+ **`매장, 케이크 정보 제공`** 
+ 
+ 매장이름 / 주소 / 플레이스 중 검색 옵션을 선택해서 매장을 검색할 수 있고, 매장의기본 정보 뿐만 아니라 검색으로 알기 힘든 케이크 사이즈와 맛 선택, 꾸미기에 따른 추가 가격 정보도 제공해드려요.
+ 
+ **`도안그리기`** 
+ 
+ 케이크 도안을 쉽게 그려보고 내가 그린 도안을 게시물 형식으로 올려 사람들과 도안을 공유하고 소통할 수 있어요.
+ 
+ **`주문서 작성`**
+ 
+ 내가 그린 도안으로 원하는 매장의 주문서를 작성 할 수 있어요.
+ 
+ <br />
 
 ## 👥 팀 소개
 
@@ -68,20 +82,24 @@
 
 ## 🛠 Tech Stack
 **Frontend Tech Stack**  
-![리액트](https://user-images.githubusercontent.com/97425158/161745107-cc062718-9c52-4446-8f14-9faba0b9dea7.svg)
-![자바스크립트](https://user-images.githubusercontent.com/97425158/161745127-a3fa5ed0-ceb6-427a-94d1-834d762fd3b4.svg)
-![에이치티엠엘](https://user-images.githubusercontent.com/97425158/161745161-566f015b-0ec2-4bba-82aa-f3bb7498bdd7.svg)
-![씨에스에스](https://user-images.githubusercontent.com/97425158/161745198-92ff3896-7ce0-4946-a8b4-e6d23223eb3b.svg)
-![리덕스](https://user-images.githubusercontent.com/97425158/161745222-ea0ba9bf-86e4-48cb-8a44-f8d8bfec2d02.svg)
-![악시오스](https://user-images.githubusercontent.com/97425158/161745239-453b4075-7bd0-4c63-9c5a-5c1d76021b8d.svg)
-![스타일드컴포넌트](https://user-images.githubusercontent.com/97425158/161745269-27a8a71d-788d-4bdf-97e8-f86c97b224a9.svg)
-![클라우드프론트](https://user-images.githubusercontent.com/97425158/161745404-114d6c7d-c720-4370-b0dd-4aea4893bb1d.svg)
-![아마존S3](https://user-images.githubusercontent.com/97425158/161744999-3ae8a4d1-48d8-41fc-af06-c601f6e1fc4d.svg)
+<img src="https://img.shields.io/badge/React-60d3f3?style=for-the-badge&logo=react&logoColor=black"> 
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Redux-7247b5?style=for-the-badge&logo=redux&logoColor=white">
+
 
 **Backend Tech Stack**  
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
+<img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Springboot&logoColor=white">
+<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"> 
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white"> 
+<img src="https://img.shields.io/badge/codedeploy-6DB33F?style=for-the-badge&logo=codedeploy&logoColor=white">
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
+<img src="https://img.shields.io/badge/Apache JMeter-D22128?style=for-the-badge&logo=Apache JMeter&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 
 
 <!-- 
